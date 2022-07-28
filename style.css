@@ -17,3 +17,21 @@
     font-size: 2rem;
     color: aliceblue;
 }
+
+/* mobile responsive */
+@media only screen and (max-width:576px)  {
+    .company{
+        display: none;
+    }
+}
+@media only screen and (min-width:576px) and (max-width: 767px)  {
+    .company{
+        display: none;
+    }
+}
+/* tab responsive */
+@media only screen and (min-width: 768px) and (max-width: 992px)  {
+    .company{
+        display: none;
+    }
+}
