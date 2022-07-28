@@ -6,10 +6,14 @@
 }
 
 .icon_color{
+   color: gold;
+   font-size: 1.5rem;
+}
+.zero_icon{
     color: gold;
     font-size: 1.5rem;
- }
- .zero_icon{
-     color: gold;
-     font-size: 1.5rem;
- }
+}
+.social_icon{
+    font-size: 2rem;
+    color: aliceblue;
+}
