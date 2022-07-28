@@ -19,14 +19,15 @@
 }
 
 /* mobile responsive */
-@media only screen and (max-width:576px)  {
+@media only screen and (max-width:767px)  {
     .company{
         display: none;
     }
-}
-@media only screen and (min-width:576px) and (max-width: 767px)  {
-    .company{
-        display: none;
+    .cover-img{
+        height: 300px;
+    }
+    .course-img{
+        width: 100%;
     }
 }
 /* tab responsive */
